@@ -6,7 +6,7 @@
 //         });
 //     }
 // };
-
+// excepted changes:
 var foot = {
     kick: function () {
         this.yelp = "Ouch!";
